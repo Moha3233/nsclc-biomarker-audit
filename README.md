@@ -69,7 +69,7 @@ cd nsclc-biomarker-audit
 
 ## Author
 
-[Your name]
+Mohan Duratkar
 
 ## License
 
