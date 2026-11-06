@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# raw data (downloaded by script)
+data/raw/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
